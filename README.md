@@ -30,15 +30,20 @@ A third aspect of decision analysis focuses on how individuals should make their
 From this point, we can start developing the concept of nudging. Nudges are some kind of reinforcements (which can be positive or negative), special ways of framing (Kahneman & Tversky, 1981) or suggestions that can influence the way people make decisions, without changing their monetary incentives and in a non-forced way. In public policies, authorities can manage the way choices are presented to individuals, that is, the choice architecture, in a way that they make better decisions, avoiding biases of everyday life.
 In this context, “a nudge is any aspect of the choice architecture that alters people’s behaviour in a predictable way without forbidding any options or significantly changing their economic incentives” (Thaler & Sunstein, 2008). In other words, a nudge specifies how individuals make important economic decisions by forming effective prescriptive techniques with the help of behavioural economics (Thaler & Benartzi, 2004).  
 
-There are several ways of nudging individuals into a specific behaviour. Some of the most frequent types of nudges are explained below:
+There are several ways of nudging individuals into a specific behaviour. Some of the most frequent types of nudges are explained below: 
+
 1. 	**Default rules and Status Quo:**
-A default is defined as what happens when someone does nothing, but instead follows the pre-set option (Thaler). A good example is the organ donation system in some countries of Europe, as will be developed in section 5.
+A default is defined as what happens when someone does nothing, but instead follows the pre-set option (Thaler). A good example is the organ donation system in some countries of Europe, as will be developed in section 5.  
+
 2. 	**Comparisons with the social norm:**
-This nudge will encourage individuals think about their behaviour in comparison to the behavior of others. This kind of nudges in the private sphere include, for example, the messages displayed in hotels rooms; instead of saying “Please reuse your towels”, they make a sign that says “Join your fellow guests in helping to save the environment by reusing the towels”. 
+This nudge will encourage individuals think about their behaviour in comparison to the behavior of others. This kind of nudges in the private sphere include, for example, the messages displayed in hotels rooms; instead of saying “Please reuse your towels”, they make a sign that says “Join your fellow guests in helping to save the environment by reusing the towels”.  
+
 3. 	**Increase in ease and convenience:**
-This nudge is very common in cafeterias, where customers can be nudged to make healthier food choices by placing fruit closest to the checkout in place of candy. This kind of nudge aims to help individuals make better choices by suggesting them in a convenient and easy way.
+This nudge is very common in cafeterias, where customers can be nudged to make healthier food choices by placing fruit closest to the checkout in place of candy. This kind of nudge aims to help individuals make better choices by suggesting them in a convenient and easy way.  
+
 4. 	**Eliciting implementation intentions / self-control:**
-Implementation intentions involve a concrete plan in a specific situation, leading to a better perception and attention to a critical situation. They are usually more successful than setting abstract goals since the goal-setter must contemplate a series of specific steps and actions. For example, a goal such as “I want to save more money” may be difficult to reach in practice as compared to an implementation intention, “Every time I get a raise, I will increase my savings rate.” This was exactly findings of the Save More Tomorrow (SMarT) Program, which was a savings program designed for individuals with self-control problems (Thaler & Benartzi, 2004). 
+Implementation intentions involve a concrete plan in a specific situation, leading to a better perception and attention to a critical situation. They are usually more successful than setting abstract goals since the goal-setter must contemplate a series of specific steps and actions. For example, a goal such as “I want to save more money” may be difficult to reach in practice as compared to an implementation intention, “Every time I get a raise, I will increase my savings rate.” This was exactly findings of the Save More Tomorrow (SMarT) Program, which was a savings program designed for individuals with self-control problems (Thaler & Benartzi, 2004).   
+
 5. 	**Warnings:**
 We can find this kind of nudge in grocery shops, where every food item is labelled with a green, yellow or red sticker. It displays such nudging aims to warn and remind people about how certain behaviours can deviate them from their initial goals.
 While nudging is a relatively new concept in economic literature, the idea behind the concept has been used all through history, not only by policy makers but also by companies, managers in charge of teams, etc. 
